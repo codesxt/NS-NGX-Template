@@ -1,4 +1,7 @@
 {
+	"main": "main.js",
+  "name": "tns-ngx-template",
+  "version": "3.4.1",
 	"description": "NativeScript Application",
 	"license": "SEE LICENSE IN <your-license-filename>",
 	"readme": "NativeScript Application",
